@@ -1,0 +1,8 @@
+{  
+  "provider": "cloudinary",  
+  "providerOptions": {
+    "cloud_name": "dfkduulav",
+    "api_key": "743283633539671",
+    "api_secret": "erm7bXYUDFezc7Qe3ZykExd8VG0"  
+  }
+}
